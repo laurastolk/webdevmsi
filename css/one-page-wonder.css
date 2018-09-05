@@ -122,13 +122,13 @@ header.masthead .bg-circle-4 {
 }
 
 .social-icons {
-  text-align: center;
+  position: center;
   }  
 .social-icons li {
-  display:inline-block;
-  list-style-type:none;
-  -webkit-user-select:none;
-  -moz-user-select:none;
+  height: 100%;
+  width: 100%;
+  top: 100%;
+  right: 100%;
   }
 .social-icons li a {
   border-bottom: none;
