@@ -108,6 +108,24 @@ header.masthead .bg-circle-4 {
   right: 35%;
 }
 
+.social-icons {
+  text-align: center;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+.social-icons li a {
+  border-bottom: none;
+  }
+.social-icons li img {
+  width:70px;
+  height:70px;
+  margin-right: 20px;
+}
+
 @media (min-width: 992px) {
   header.masthead {
     padding-top: calc(10rem + 55px);
