@@ -121,14 +121,14 @@ header.masthead .bg-circle-4 {
   }
 }
 
-.social-icons {
-  position: center;
-  }  
+.social-icons { 
+  text-align: center;
+}
 .social-icons li {
-  height: 100%;
-  width: 100%;
-  top: 100%;
-  right: 100%;
+  display: inline-block;
+  list-style-type: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
   }
 .social-icons li a {
   border-bottom: none;
