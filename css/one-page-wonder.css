@@ -136,7 +136,7 @@ header.masthead .bg-circle-4 {
 .social-icons li img {
   width:35px;
   height:35px;
-  margin-right: 23px;
+  margin-right: 100%;
 }
 
 .bg-primary {
