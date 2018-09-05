@@ -125,6 +125,8 @@ header.masthead .bg-circle-4 {
   position: center;
   }  
 .social-icons li {
+  height: 100%;
+  width: 100%;
   top: 100%;
   right: 100%;
   }
