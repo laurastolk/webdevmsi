@@ -7383,7 +7383,7 @@ button.bg-dark:focus {
 }
 
 .m-0 {
-  margin: 0 !important;
+  margin: 100% !important;
 }
 
 .mt-0,
