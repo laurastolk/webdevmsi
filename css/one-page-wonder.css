@@ -122,9 +122,11 @@ header.masthead .bg-circle-4 {
 }
 
 .social-icons { 
+  position: center;
   text-align: center;
 }
 .social-icons li {
+  position: center;
   display: inline-block;
   list-style-type: none;
   -webkit-user-select: none;
