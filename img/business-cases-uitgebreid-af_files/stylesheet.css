@@ -1,0 +1,434 @@
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style17
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:Comma;
+	mso-style-id:3;}
+.style16
+	{mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.00_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.00_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:Currency;
+	mso-style-id:4;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+.style18
+	{mso-number-format:0%;
+	mso-style-name:Percent;
+	mso-style-id:5;}
+.font17
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+.font23
+	{color:black;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;}
+td
+	{mso-style-parent:style0;
+	padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	font-weight:700;}
+.xl66
+	{mso-style-parent:style0;
+	font-weight:700;
+	mso-number-format:"0\.000";}
+.xl67
+	{mso-style-parent:style0;
+	background:yellow;
+	mso-pattern:black none;}
+.xl68
+	{mso-style-parent:style0;
+	font-weight:700;
+	background:yellow;
+	mso-pattern:black none;}
+.xl69
+	{mso-style-parent:style16;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.00_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.00_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";
+	background:yellow;
+	mso-pattern:black none;}
+.xl70
+	{mso-style-parent:style0;
+	font-style:italic;
+	background:yellow;
+	mso-pattern:black none;}
+.xl71
+	{mso-style-parent:style0;
+	font-style:italic;
+	text-align:center;
+	background:yellow;
+	mso-pattern:black none;}
+.xl72
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-weight:700;
+	background:yellow;
+	mso-pattern:black none;}
+.xl73
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	background:yellow;
+	mso-pattern:black none;}
+.xl74
+	{mso-style-parent:style0;
+	font-weight:700;
+	mso-number-format:"0\.000";
+	text-align:left;}
+.xl75
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:left;}
+.xl76
+	{mso-style-parent:style0;
+	font-weight:700;
+	mso-number-format:"0\.000";
+	text-align:left;
+	background:yellow;
+	mso-pattern:black none;}
+.xl77
+	{mso-style-parent:style0;
+	text-align:left;
+	background:yellow;
+	mso-pattern:black none;}
+.xl78
+	{mso-style-parent:style0;
+	font-weight:700;
+	mso-number-format:0%;
+	text-align:left;
+	background:yellow;
+	mso-pattern:black none;}
+.xl79
+	{mso-style-parent:style17;
+	mso-number-format:0;
+	text-align:left;
+	background:yellow;
+	mso-pattern:black none;}
+.xl80
+	{mso-style-parent:style17;
+	mso-number-format:"0\.000";
+	text-align:left;
+	background:yellow;
+	mso-pattern:black none;}
+.xl81
+	{mso-style-parent:style0;
+	mso-number-format:"0\.000";
+	text-align:left;
+	background:yellow;
+	mso-pattern:black none;}
+.xl82
+	{mso-style-parent:style0;
+	mso-number-format:0;
+	text-align:left;
+	background:yellow;
+	mso-pattern:black none;}
+.xl83
+	{mso-style-parent:style0;
+	font-weight:700;
+	text-align:left;
+	background:yellow;
+	mso-pattern:black none;}
+.xl84
+	{mso-style-parent:style0;
+	font-size:14.0pt;
+	font-weight:700;
+	background:yellow;
+	mso-pattern:black none;}
+.xl85
+	{mso-style-parent:style0;
+	text-align:center;
+	background:yellow;
+	mso-pattern:black none;}
+.xl86
+	{mso-style-parent:style17;
+	font-weight:700;
+	mso-number-format:"0\.000";
+	text-align:left;}
+.xl87
+	{mso-style-parent:style0;
+	mso-number-format:0%;}
+.xl88
+	{mso-style-parent:style18;
+	mso-number-format:0%;}
+.xl89
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-weight:700;
+	background:yellow;
+	mso-pattern:black none;}
+.xl90
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	background:yellow;
+	mso-pattern:black none;}
+.xl91
+	{mso-style-parent:style16;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.00_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.00_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl92
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-weight:700;}
+.xl93
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;}
+.xl94
+	{mso-style-parent:style0;
+	font-style:italic;}
+.xl95
+	{mso-style-parent:style0;
+	color:windowtext;}
+.xl96
+	{mso-style-parent:style17;
+	mso-number-format:"_ * \#\,\#\#0\.0_ \;_ * \\-\#\,\#\#0\.0_ \;_ * \0022-\0022??_ \;_ \@_ ";}
+.xl97
+	{mso-style-parent:style17;
+	mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022??_ \;_ \@_ ";}
+.xl98
+	{mso-style-parent:style17;
+	mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl99
+	{mso-style-parent:style17;
+	mso-number-format:"_-\0022€\0022* \#\,\#\#0\.00_-\;\\-\0022€\0022* \#\,\#\#0\.00_-\;_-\0022€\0022* \0022-\0022??_-\;_-\@_-";}
+.xl100
+	{mso-style-parent:style16;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0_ \;_ \0022€\0022\\ * \\-\#\,\#\#0_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl101
+	{mso-style-parent:style16;
+	color:windowtext;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0_ \;_ \0022€\0022\\ * \\-\#\,\#\#0_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl102
+	{mso-style-parent:style17;
+	color:windowtext;
+	mso-number-format:"_-\0022€\0022* \#\,\#\#0_-\;\\-\0022€\0022* \#\,\#\#0_-\;_-\0022€\0022* \0022-\0022??_-\;_-\@_-";}
+.xl103
+	{mso-style-parent:style16;
+	color:windowtext;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.00_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.00_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl104
+	{mso-style-parent:style0;
+	color:#00B050;
+	font-weight:700;}
+.xl105
+	{mso-style-parent:style16;
+	color:#00B050;
+	font-weight:700;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0_ \;_ \0022€\0022\\ * \\-\#\,\#\#0_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl106
+	{mso-style-parent:style16;
+	color:windowtext;}
+.xl107
+	{mso-style-parent:style0;
+	color:red;
+	font-weight:700;}
+.xl108
+	{mso-style-parent:style16;
+	color:windowtext;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0_ \;_ \0022€\0022\\ * \\-\#\,\#\#0_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";
+	text-align:left;}
+.xl109
+	{mso-style-parent:style16;
+	color:windowtext;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.000_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.000_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl110
+	{mso-style-parent:style16;
+	color:windowtext;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.000_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.000_ \;_ \0022€\0022\\ * \0022-\0022???_ \;_ \@_ ";}
+.xl111
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-style:italic;}
+.xl112
+	{mso-style-parent:style18;
+	color:windowtext;
+	mso-number-format:0%;}
+.xl113
+	{mso-style-parent:style17;
+	color:windowtext;
+	mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022??_ \;_ \@_ ";}
+.xl114
+	{mso-style-parent:style16;
+	color:red;
+	font-weight:700;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0_ \;_ \0022€\0022\\ * \\-\#\,\#\#0_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl115
+	{mso-style-parent:style16;
+	mso-number-format:0;}
+.xl116
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:700;}
+.xl117
+	{mso-style-parent:style16;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:700;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0_ \;_ \0022€\0022\\ * \\-\#\,\#\#0_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl118
+	{mso-style-parent:style16;
+	mso-number-format:"_ \[$€-413\]\\ * \#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \\-\#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \0022-\0022??_ \;_ \@_ ";
+	background:yellow;
+	mso-pattern:black none;}
+.xl119
+	{mso-style-parent:style0;
+	mso-number-format:0;
+	text-align:right;
+	background:yellow;
+	mso-pattern:black none;}
+.xl120
+	{mso-style-parent:style0;
+	mso-number-format:"_ \[$€-413\]\\ * \#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \\-\#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \0022-\0022??_ \;_ \@_ ";
+	background:yellow;
+	mso-pattern:black none;}
+.xl121
+	{mso-style-parent:style18;
+	mso-number-format:0%;
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl122
+	{mso-style-parent:style17;
+	mso-number-format:"_ * \#\,\#\#0\.0_ \;_ * \\-\#\,\#\#0\.0_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl123
+	{mso-style-parent:style16;
+	color:windowtext;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.00_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.00_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl124
+	{mso-style-parent:style16;
+	color:windowtext;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.000_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.000_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl125
+	{mso-style-parent:style16;
+	color:windowtext;
+	mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022??_ \;_ \@_ ";}
+.xl126
+	{mso-style-parent:style16;
+	color:windowtext;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0_ \;_ \0022€\0022\\ * \\-\#\,\#\#0_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl127
+	{mso-style-parent:style16;
+	color:red;
+	font-size:11.0pt;
+	font-weight:700;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0_ \;_ \0022€\0022\\ * \\-\#\,\#\#0_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl128
+	{mso-style-parent:style16;
+	color:#00B050;
+	font-size:11.0pt;
+	font-weight:700;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0_ \;_ \0022€\0022\\ * \\-\#\,\#\#0_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl129
+	{mso-style-parent:style16;
+	mso-number-format:"_-\0022€\0022* \#\,\#\#0_-\;\\-\0022€\0022* \#\,\#\#0_-\;_-\0022€\0022* \0022-\0022??_-\;_-\@_-";}
+.xl130
+	{mso-style-parent:style17;
+	color:windowtext;
+	mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl131
+	{mso-style-parent:style17;
+	color:windowtext;
+	mso-number-format:"_-\0022€\0022* \#\,\#\#0\.00_-\;\\-\0022€\0022* \#\,\#\#0\.00_-\;_-\0022€\0022* \0022-\0022??_-\;_-\@_-";
+	background:#E2EFDA;
+	mso-pattern:black none;}
+.xl132
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	text-align:center;}
+.xl133
+	{mso-style-parent:style16;
+	color:red;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.00_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.00_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl134
+	{mso-style-parent:style16;
+	color:#00B050;
+	mso-number-format:"_ \0022€\0022\\ * \#\,\#\#0\.00_ \;_ \0022€\0022\\ * \\-\#\,\#\#0\.00_ \;_ \0022€\0022\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl135
+	{mso-style-parent:style0;
+	mso-number-format:"_ \[$€-413\]\\ * \#\,\#\#0_ \;_ \[$€-413\]\\ * \\-\#\,\#\#0_ \;_ \[$€-413\]\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl136
+	{mso-style-parent:style0;
+	font-weight:700;
+	mso-number-format:"_ \[$€-413\]\\ * \#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \\-\#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl137
+	{mso-style-parent:style0;
+	mso-number-format:0;}
+.xl138
+	{mso-style-parent:style0;
+	mso-number-format:0;
+	text-align:right;}
+.xl139
+	{mso-style-parent:style16;
+	mso-number-format:"_ \[$€-413\]\\ * \#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \\-\#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl140
+	{mso-style-parent:style0;
+	mso-number-format:"_ \[$€-413\]\\ * \#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \\-\#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl141
+	{mso-style-parent:style16;
+	font-weight:700;
+	mso-number-format:"_ \[$€-413\]\\ * \#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \\-\#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl142
+	{mso-style-parent:style0;
+	color:#00B050;
+	font-weight:700;
+	mso-number-format:"_ \[$€-413\]\\ * \#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \\-\#\,\#\#0\.00_ \;_ \[$€-413\]\\ * \0022-\0022??_ \;_ \@_ ";}
+.xl143
+	{mso-style-parent:style0;
+	font-size:11.0pt;
+	font-weight:700;
+	mso-number-format:"_ \[$€-413\]\\ * \#\,\#\#0\.000_ \;_ \[$€-413\]\\ * \\-\#\,\#\#0\.000_ \;_ \[$€-413\]\\ * \0022-\0022???_ \;_ \@_ ";}
